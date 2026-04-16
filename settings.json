@@ -10,7 +10,7 @@
 ",
     "port": 27156,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
